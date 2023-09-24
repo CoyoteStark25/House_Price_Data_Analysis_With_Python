@@ -46,3 +46,5 @@ long: Longitude coordinate
 sqft_living15 : Living room area in 2015(implies-- some renovations) This might or might not have affected the lotsize area
 
 sqft_lot15 : LotSize area in 2015(implies-- some renovations)
+
+### I was asked to complete 10 tasks in total.
